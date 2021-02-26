@@ -1,10 +1,10 @@
 .parent {
-  position: absolute;
+  position: relative;
   top: 0;
   left: 0;
 }
 .image1 {
-  position: absolute;
+  position: relative;
   width: 40px;
   top: 500px;
   left: 600;
